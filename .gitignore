@@ -1,3 +1,4 @@
 venv/
 __pycache__/
 backend/data/raw/
+backend/data/sample_resume.pdf
