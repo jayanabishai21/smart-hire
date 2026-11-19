@@ -1,0 +1,328 @@
+skill,aliases
+html,html5
+css,css3
+sass,scss
+javascript,js|java script|ecmascript
+typescript,ts
+react.js,react|reactjs|react js
+next.js,nextjs|next js
+redux,
+angular,angularjs
+vue.js,vue|vuejs
+nuxt.js,nuxt|nuxtjs
+svelte,
+jquery,
+bootstrap,
+tailwind css,tailwind
+material ui,mui
+webpack,
+vite,
+responsive design,responsive web design
+web development,web dev
+node.js,node|nodejs|node js
+express.js,express|expressjs
+nestjs,nest.js
+rest api,restful api|rest apis|restful apis
+graphql,
+websockets,websocket
+microservices,microservice
+api development,api design
+python,
+java,
+c++,cpp
+c#,csharp|c sharp
+c,
+go,golang
+rust,
+ruby,
+ruby on rails,rails|ror
+php,
+laravel,
+django,
+flask,
+fastapi,
+spring boot,springboot
+spring,spring framework
+hibernate,
+.net,dotnet|dot net
+asp.net,aspnet
+scala,
+kotlin,
+swift,
+r,r programming
+matlab,
+perl,
+shell scripting,bash|shell|bash scripting
+powershell,
+sql,
+mysql,
+postgresql,postgres
+sql server,mssql|ms sql
+oracle,oracle database|oracle db
+sqlite,
+mongodb,mongo
+redis,
+cassandra,
+elasticsearch,elastic search
+dynamodb,
+firebase,
+nosql,
+pl/sql,plsql
+database design,db design
+data modeling,data modelling
+pandas,
+numpy,
+scipy,
+matplotlib,
+seaborn,
+plotly,
+scikit-learn,sklearn|scikit learn
+tensorflow,
+keras,
+pytorch,
+opencv,
+nltk,
+spacy,
+hugging face,huggingface
+xgboost,
+machine learning,ml
+deep learning,dl
+neural networks,neural network|ann
+natural language processing,nlp
+computer vision,cv
+data science,
+data analysis,data analytics
+data visualization,data visualisation
+data cleaning,data cleansing|data wrangling
+statistics,statistical analysis
+predictive modeling,predictive modelling
+regression,linear regression
+classification,
+clustering,
+time series,time series analysis
+feature engineering,
+a/b testing,ab testing
+generative ai,genai|gen ai
+large language models,llm|llms
+prompt engineering,
+langchain,
+reinforcement learning,
+big data,
+hadoop,
+spark,apache spark|pyspark
+hive,apache hive
+kafka,apache kafka
+airflow,apache airflow
+hbase,
+pig,apache pig
+sqoop,
+etl,extract transform load
+data warehousing,data warehouse
+data pipelines,data pipeline
+snowflake,
+databricks,
+informatica,
+talend,
+ssis,
+excel,ms excel|microsoft excel
+power bi,powerbi
+tableau,
+qlik,qlikview|qlik sense
+looker,
+google analytics,
+jupyter,jupyter notebook
+aws,amazon web services
+ec2,
+s3,
+lambda,aws lambda
+azure,microsoft azure
+google cloud,gcp|google cloud platform
+cloud computing,
+serverless,
+docker,
+kubernetes,k8s
+terraform,
+ansible,
+jenkins,
+ci/cd,cicd|ci cd|continuous integration
+gitlab,gitlab ci
+github actions,
+chef,
+puppet,
+nagios,
+prometheus,
+grafana,
+linux,unix
+nginx,
+apache,apache http server
+devops,
+infrastructure as code,iac
+git,
+github,
+bitbucket,
+svn,subversion
+jira,
+confluence,
+trello,
+postman,
+swagger,openapi
+vs code,visual studio code
+intellij,intellij idea
+eclipse,
+selenium,
+cypress,
+junit,
+testng,
+pytest,
+jest,
+mocha,
+cucumber,
+appium,
+jmeter,
+loadrunner,
+manual testing,
+automation testing,test automation
+unit testing,unit tests
+integration testing,
+regression testing,
+performance testing,
+api testing,
+test cases,test case
+bug tracking,defect tracking
+quality assurance,qa
+sdlc,software development life cycle
+stlc,
+bdd,behavior driven development
+tdd,test driven development
+android,android development
+ios,ios development
+react native,
+flutter,
+xamarin,
+mobile development,mobile app development
+network security,
+cyber security,cybersecurity|information security
+ethical hacking,
+penetration testing,pentesting|pen testing
+firewalls,firewall
+vpn,
+cisco,
+ccna,
+tcp/ip,tcpip
+routing and switching,
+siem,
+encryption,cryptography
+vulnerability assessment,
+iso 27001,
+networking,computer networking
+blockchain,
+ethereum,
+solidity,
+smart contracts,smart contract
+hyperledger,
+web3,
+bitcoin,
+sap,
+sap abap,abap
+sap fico,
+sap mm,
+sap hana,
+erp,
+salesforce,
+crm,
+oop,object oriented programming|object-oriented programming
+data structures,data structures and algorithms|dsa
+algorithms,
+design patterns,
+system design,
+multithreading,multi threading
+agile,
+scrum,
+kanban,
+waterfall,
+project management,
+program management,
+pmo,project management office
+stakeholder management,
+risk management,
+budgeting,budget management
+resource planning,
+business analysis,
+requirements gathering,requirement gathering
+use cases,use case
+user stories,user story
+process improvement,
+mis,management information systems
+ms office,microsoft office
+word,ms word|microsoft word
+powerpoint,ms powerpoint|microsoft powerpoint
+vba,excel vba
+google sheets,
+figma,
+adobe xd,
+photoshop,adobe photoshop
+illustrator,adobe illustrator
+ui design,
+ux design,
+ui/ux,ui ux
+wireframing,wireframes
+prototyping,
+seo,search engine optimization
+digital marketing,
+content writing,
+social media marketing,
+email marketing,
+sales,
+business development,
+lead generation,
+negotiation,
+customer service,customer support
+account management,
+recruitment,talent acquisition
+payroll,
+employee engagement,
+onboarding,
+performance management,
+hr policies,
+training and development,
+supply chain,
+logistics,
+inventory management,
+operations management,
+vendor management,
+procurement,
+quality control,
+lean,lean manufacturing
+six sigma,
+autocad,
+solidworks,
+catia,
+ansys,
+plc,
+scada,
+circuit design,
+embedded systems,
+arduino,
+raspberry pi,
+iot,internet of things
+vlsi,
+pcb design,
+estimation,
+site supervision,
+staad pro,
+revit,
+primavera,
+accounting,
+tally,
+gst,
+financial analysis,
+auditing,
+legal research,
+drafting,
+litigation,
+communication skills,communication
+leadership,
+teamwork,team work
+problem solving,problem-solving
+time management,
+critical thinking,
