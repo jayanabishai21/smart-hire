@@ -33,6 +33,7 @@ CATEGORY_TO_ROLES = {
     "DevOps Engineer":    ["DevOps Engineer"],
     "Database":           ["Backend Developer", "Data Analyst"],
     "Business Analyst":   ["Data Analyst"],
+    "Testing":            ["QA / Test Engineer"],
 }
 
 

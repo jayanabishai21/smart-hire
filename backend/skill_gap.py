@@ -28,6 +28,8 @@ ROLE_KEYWORDS = {
     "PHP Developer":             ["php"],
     "UI/UX Designer":            ["ux", "ui/ux", "product designer"],
     "DevOps Engineer":           ["devops", "cloud engineer", "site reliability"],
+    "Mobile App Developer":      ["android", "ios", "mobile", "flutter"],
+    "QA / Test Engineer":        ["qa ", "test engineer", "quality assurance", "sdet", "tester"],
 }
 
 # ---------- 2. Learning links ----------
