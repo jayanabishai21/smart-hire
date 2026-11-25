@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Smart Hire</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header class="topbar">
+    <h1>Smart Hire</h1>
+    <p>Upload your resume. We find your skills, suggest roles and match jobs.</p>
+  </header>
+
+  <main>
+    <!-- SCREEN 1: Upload -->
+    <section id="upload-view">
+      <label id="dropzone" class="dropzone">
+        <input type="file" id="file-input" accept=".pdf,.docx" hidden>
+        <strong>Drag and drop your resume here</strong>
+        <span>or click to choose a file (PDF or DOCX, max 5 MB)</span>
+        <span id="file-name" class="file-name">No file chosen</span>
+      </label>
+      <button id="analyze-btn" class="btn" disabled>Analyze my resume</button>
+      <p id="loading" class="muted hidden">Analyzing your resume... this can take a few seconds.</p>
+      <p id="error" class="error"></p>
+    </section>
+
+    <!-- SCREEN 2: Results -->
+    <section id="results-view" class="hidden">
+      <button class="btn secondary" id="again-btn">&larr; Analyze another resume</button>
+
+      <h2>Skills found in your resume</h2>
+      <div id="skills" class="chips"></div>
+
+      <h2>Roles you can apply for</h2>
+      <div id="roles" class="grid"></div>
+
+      <h2>Matching job openings</h2>
+      <div id="jobs" class="grid"></div>
+    </section>
+
+    <!-- SCREEN 3: Skill gap -->
+    <section id="gap-view" class="hidden">
+      <button class="btn secondary" id="back-btn">&larr; Back to results</button>
+      <h2>Skill gap analysis</h2>
+      <div class="row">
+        <label for="role-select">Role:</label>
+        <select id="role-select"></select>
+        <button class="btn" id="gap-btn">Check</button>
+      </div>
+      <div id="gap-output"></div>
+    </section>
+  </main>
+
+  <script src="script.js"></script>
+</body>
+</html>
