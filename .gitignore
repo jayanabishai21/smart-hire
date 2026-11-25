@@ -4,3 +4,4 @@ backend/data/raw/
 backend/data/sample_resume.pdf
 backend/data/jobs_index.pkl
 backend/data/job_embeddings.npy
+backend/data/test_resumes/
